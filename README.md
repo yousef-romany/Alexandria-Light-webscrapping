@@ -1,9 +1,3 @@
-تمام ✅ خليني أعملك **README.md** منسق واحترافي للـ repo بتاع الـ **Web Scraping** بحيث يوضح: فكرة المشروع، التقنيات المستخدمة، إزاي يتشغل الكود، وإيه الناتج اللي بيطلع.
-
----
-
-## 📄 مقترح README للـ Scraping Repo
-
 ````markdown
 # Alexandria's Light - Web Scraping 🕯️
 
@@ -12696,9 +12690,4 @@ All data is scraped from **[St-Takla.org](https://st-takla.org)**, a comprehensi
 Check out the main web app that uses this data:
 👉 [Alexandria's Light – Interactive Timeline](https://github.com/your-username/alexandrias-light)
 
-```
-
----
-
-تحب أضيفلك في الـ README كمان سكريبت **"convert-to-sql.ts"** (أو MongoDB seeder) علشان اللي هيستخدم الـ JSON يعرف إزاي يحوله لقواعد بيانات؟
 ```
